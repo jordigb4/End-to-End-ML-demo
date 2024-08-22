@@ -1,4 +1,4 @@
-# ADAM
+# Heart Risk Prediction: An End-to-End Solution with Machine Learning, Streamlit, FastAPI, and Docker
 
 <a name="readme-top"></a>
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 Clone the repo
   ```sh
-  git clone https://github.com/jordigb4/Simplex
+  git clone https://github.com/jordigb4/End-to-End-ML-demo
   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
